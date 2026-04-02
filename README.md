@@ -42,7 +42,7 @@ It’s an application designed to register and track daily healthy habits, focus
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/usuario/habits-tracker.git
+git clone https://github.com/Antonio-Borrero/proyecto-final-4Geeks.git
 
 cd habits-tracker
 npm install
