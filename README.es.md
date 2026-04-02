@@ -43,7 +43,7 @@ Es una aplicación diseñada para registrar y hacer seguimiento de hábitos salu
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/habits-tracker.git
+git clone https://github.com/Antonio-Borrero/proyecto-final-4Geeks.git
 
 cd habits-tracker
 npm install
