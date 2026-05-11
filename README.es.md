@@ -1,4 +1,4 @@
-[Español](README.es.md) | English
+Español | [English](README.md)
 
 # Habits Tracker
 
