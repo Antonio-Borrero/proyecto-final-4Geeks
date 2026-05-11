@@ -36,18 +36,6 @@
 
 <br>
 
-## Screenshots
-
-| Home Page | Personal Records |
-|---|---|
-| ![Home](./screenshots/home.JPG) | ![Goals](./screenshots/goals_and_personal_records.JPG) |
-
-| Login | User Profile |
-|---|---|
-| ![Login](./screenshots/login.JPG) | ![Profile](./screenshots/profile.JPG) |
-
-<br>
-
 ## Installation & Usage
 
 1. Clone the repository
@@ -67,6 +55,18 @@
    npm run start
    ```
    
+<br>
+
+## Screenshots
+
+| Home Page | Personal Records |
+|---|---|
+| ![Home](./screenshots/home.JPG) | ![Goals](./screenshots/goals_and_personal_records.JPG) |
+
+| Login | User Profile |
+|---|---|
+| ![Login](./screenshots/login.JPG) | ![Profile](./screenshots/profile.JPG) |
+
 <br>
 
 ## Authors
